@@ -15,6 +15,7 @@
       "name": "arc-theme",
       "cleanup": [ "thumbnail.png" ],
       "config-opts": [
+        "--with-gnome=3.22",
         "--disable-gnome-shell",
         "--disable-gtk2",
         "--disable-cinnamon",
